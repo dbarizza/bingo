@@ -1,9 +1,0 @@
-E:\TFS\Bingo\Bingo\bin\Debug\Bingo.exe.config
-E:\TFS\Bingo\Bingo\bin\Debug\Bingo.exe
-E:\TFS\Bingo\Bingo\bin\Debug\Bingo.pdb
-E:\TFS\Bingo\Bingo\obj\Debug\Bingo.csprojResolveAssemblyReference.cache
-E:\TFS\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
-E:\TFS\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.Cache
-E:\TFS\Bingo\Bingo\obj\Debug\Bingo.exe
-E:\TFS\Bingo\Bingo\obj\Debug\Bingo.pdb
-E:\TFS\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
